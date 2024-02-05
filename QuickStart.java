@@ -1,6 +1,6 @@
 class QuickStart {
     public static void main (String[] args) {
-        System.out.println("Hello, World."+ args[0] +""+ args[1]);
+        System.out.println("Hello, World. second commit "+ args[0] +""+ args[1]);
         second();
         SecondClass secondClass = new SecondClass();
         secondClass.second();

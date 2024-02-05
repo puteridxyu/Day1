@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "QuickStart",
+            "request": "launch",
+            "mainClass": "QuickStart",
+            "projectName": "Day1_dff79002"
+        },
+        {
+            "type": "java",
             "name": "Current File",
             "request": "launch",
             "mainClass": "${file}"
@@ -16,7 +23,8 @@
             "request": "launch",
             "mainClass": "QuickStart",
             "args": [
-                "Feb","24"
+                "Feb",
+                "24"
             ],
             "projectName": "Day1_810e2a22"
         }
