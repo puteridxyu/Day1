@@ -21,9 +21,8 @@ class Z extends Y {
 public class Q10 {
     public static void main(String[] args) {
 
-        // question 10
-        X x = new Z();
-        x.greet(); // Line n1
+        X x = new Z(); // instance class Z and assigns to x.
+        x.greet(); // Calls greet method from class Z
         ((Y) x).greet(); // Line n2
         ((Z) x).greet(); // Line n3
 
