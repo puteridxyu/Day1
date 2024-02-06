@@ -1,4 +1,4 @@
-package lesson1.quiz1;
+package lesson1.quiz1.all;
 
 //import java.time.LocalDate; //question 7
 

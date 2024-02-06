@@ -1,7 +1,5 @@
 package lesson1.quiz1.question10;
 
-import lesson1.quiz1.question10.*;
-
 class X {
     void greet() {
         System.out.println("Good Morning!");
