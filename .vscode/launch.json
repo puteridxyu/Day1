@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Asgmt1",
+            "request": "launch",
+            "mainClass": "lesson1.assignment1.Asgmt1",
+            "projectName": "Day1_69de353e"
+        },
+        {
+            "type": "java",
             "name": "Q19",
             "request": "launch",
             "mainClass": "lesson1.quiz1.question19.Q19",
