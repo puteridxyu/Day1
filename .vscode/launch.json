@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Q10",
+            "request": "launch",
+            "mainClass": "lesson1.quiz1.question10.Q10",
+            "projectName": "Day1_69de353e"
+        },
+        {
+            "type": "java",
+            "name": "Q10",
+            "request": "launch",
+            "mainClass": "quiz1.question10.Q10",
+            "projectName": "Day1_69de353e"
+        },
+        {
+            "type": "java",
+            "name": "Test",
+            "request": "launch",
+            "mainClass": "quiz1.Test",
+            "projectName": "Day1_69de353e"
+        },
+        {
+            "type": "java",
             "name": "Current File",
             "request": "launch",
             "mainClass": "${file}"
