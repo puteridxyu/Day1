@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "SwitchCase",
+            "request": "launch",
+            "mainClass": "lesson2.operators.exec.SwitchCase",
+            "projectName": "Day1_69de353e"
+        },
+        {
+            "type": "java",
             "name": "MatrixAdd",
             "request": "launch",
             "mainClass": "lesson2.operators.exec.MatrixAdd",
