@@ -6,6 +6,83 @@
     "configurations": [
         {
             "type": "java",
+            "name": "PrimeNumbers",
+            "request": "launch",
+            "mainClass": "lesson2.operators.exec.PrimeNumbers",
+            "projectName": "Day1_69de353e"
+        },
+        {
+            "type": "java",
+            "name": "Fibonacci",
+            "request": "launch",
+            "mainClass": "lesson2.operators.exec.Fibonacci",
+            "projectName": "Day1_69de353e"
+        },
+        {
+            "type": "java",
+            "name": "Factorial",
+            "request": "launch",
+            "mainClass": "lesson2.operators.exec.Factorial",
+            "projectName": "Day1_69de353e"
+        },
+        {
+            "type": "java",
+            "name": "FlowStatement",
+            "request": "launch",
+            "mainClass": "lesson2.operators.exec.elvis.FlowStatement",
+            "projectName": "Day1_69de353e"
+        },
+        {
+            "type": "java",
+            "name": "Exec1",
+            "request": "launch",
+            "mainClass": "lesson2.operators.exec.elvis.Exec1",
+            "projectName": "Day1_69de353e"
+        },
+        {
+            "type": "java",
+            "name": "ElvisOperator",
+            "request": "launch",
+            "mainClass": "lesson2.operators.exec.ElvisOperator",
+            "projectName": "Day1_69de353e"
+        },
+        {
+            "type": "java",
+            "name": "Numeric",
+            "request": "launch",
+            "mainClass": "lesson2.operators.exec.Numeric",
+            "projectName": "Day1_69de353e"
+        },
+        {
+            "type": "java",
+            "name": "Exec3",
+            "request": "launch",
+            "mainClass": "lesson2.operators.exec.Exec3",
+            "projectName": "Day1_69de353e"
+        },
+        {
+            "type": "java",
+            "name": "Exec2",
+            "request": "launch",
+            "mainClass": "lesson2.operators.exec.Exec2",
+            "projectName": "Day1_69de353e"
+        },
+        {
+            "type": "java",
+            "name": "Exec1",
+            "request": "launch",
+            "mainClass": "lesson2.operators.exec.Exec1",
+            "projectName": "Day1_69de353e"
+        },
+        {
+            "type": "java",
+            "name": "Exec2",
+            "request": "launch",
+            "mainClass": "lesson2.operators.exec1.Exec2",
+            "projectName": "Day1_69de353e"
+        },
+        {
+            "type": "java",
             "name": "Asgmt1",
             "request": "launch",
             "mainClass": "lesson1.assignment1.Asgmt1",
