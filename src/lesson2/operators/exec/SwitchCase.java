@@ -7,7 +7,6 @@ public class SwitchCase {
         Scanner scanner = new Scanner(System.in);
         System.out.print("Enter your day abbr: ");
         String str = scanner.nextLine();
-        long start1 = System.currentTimeMillis();
         System.out.println("Switch: " + switchCase(str));
         scanner.close();
     }
