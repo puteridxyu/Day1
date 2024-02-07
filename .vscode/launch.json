@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "FactorialFlowState",
+            "request": "launch",
+            "mainClass": "lesson2.operators.exec.FactorialFlowState",
+            "projectName": "Day1_69de353e"
+        },
+        {
+            "type": "java",
             "name": "FlowState2",
             "request": "launch",
             "mainClass": "lesson2.operators.exec.FlowState2",

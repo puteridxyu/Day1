@@ -2,17 +2,13 @@ package lesson2.operators.exec;
 
 import java.util.Scanner;
 
-public class FlowState2 {
+public class FactorialFlowState {
     public static void main(String[] args) {
-        int i = 1; // start from 1 for factorial calculation
         int n = 0;
-        int nFact = 1; // initialize nFact to 1 for factorial calculation
+        long nFact = 1; // Use long to handle larger factorial values
 
         try {
             Scanner scanner = new Scanner(System.in);
-
-            System.out.print("Enter an int i number: ");
-            i = scanner.nextInt();
 
             System.out.print("Enter an int n number: ");
             n = scanner.nextInt();
@@ -24,8 +20,9 @@ public class FlowState2 {
             e.printStackTrace();
         }
 
+        int i = 1; // Start i from 1 for factorial calculation
         while (i <= n) {
-            nFact = nFact * i;
+            nFact *= i;
             i++;
         }
 
