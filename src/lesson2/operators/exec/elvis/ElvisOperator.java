@@ -15,6 +15,9 @@ public class ElvisOperator {
 
             System.out.print("Enter an int B number: ");
             intB = scanner.nextInt();
+
+            scanner.close();
+
         } catch (Exception e) {
             System.out.println("An error has occurred.");
             e.printStackTrace();

@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "MatrixAdd",
+            "request": "launch",
+            "mainClass": "lesson2.operators.exec.MatrixAdd",
+            "projectName": "Day1_69de353e"
+        },
+        {
+            "type": "java",
+            "name": "Exec2",
+            "request": "launch",
+            "mainClass": "lesson2.operators.exec.elvis.Exec2",
+            "projectName": "Day1_69de353e"
+        },
+        {
+            "type": "java",
             "name": "PrimeNumbers",
             "request": "launch",
             "mainClass": "lesson2.operators.exec.PrimeNumbers",
