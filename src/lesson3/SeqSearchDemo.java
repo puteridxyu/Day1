@@ -25,19 +25,24 @@ public class SeqSearchDemo {
         int i = 0;
         int len = a.length;
 
+        // k =0
+
         while (i < len && a[i] != k) {
-            i++;
+            i++; // i=1
         }
 
         if (i >= len) {
-            i = -1;
+            i = -1; // i=-1
         }
 
         return i;
     }
 
     public static void displayResult(int key, int result) {
-        System.out.println(key + " is found at a[" + result + "]");
+        if (result == -1) {
+            System.out.println(key + " is not found ");
+        } else
+            System.out.println(key + " is found at a[" + result + "]");
     }
 
     public static void printArrayValues(int[] a) {

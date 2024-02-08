@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "nthPowerDimention",
+            "request": "launch",
+            "mainClass": "lesson3.nthPowerDimention",
+            "projectName": "Day1_69de353e"
+        },
+        {
+            "type": "java",
+            "name": "MatrixPower",
+            "request": "launch",
+            "mainClass": "lesson3.MatrixPower",
+            "projectName": "Day1_69de353e"
+        },
+        {
+            "type": "java",
+            "name": "MultiDimensionalArray",
+            "request": "launch",
+            "mainClass": "lesson3.MultiDimensionalArray",
+            "projectName": "Day1_69de353e"
+        },
+        {
+            "type": "java",
+            "name": "SelectionSort",
+            "request": "launch",
+            "mainClass": "lesson3.SelectionSort",
+            "projectName": "Day1_69de353e"
+        },
+        {
+            "type": "java",
             "name": "ArrayFunction",
             "request": "launch",
             "mainClass": "lesson3.ArrayFunction",
