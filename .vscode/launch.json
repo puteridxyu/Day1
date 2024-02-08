@@ -6,20 +6,6 @@
     "configurations": [
         {
             "type": "java",
-            "name": "ArrayListStringManipulator",
-            "request": "launch",
-            "mainClass": "lesson3.ArrayListStringManipulator",
-            "projectName": "Day1_69de353e"
-        },
-        {
-            "type": "java",
-            "name": "ArrayListManipulator",
-            "request": "launch",
-            "mainClass": "lesson3.ArrayListManipulator",
-            "projectName": "Day1_69de353e"
-        },
-        {
-            "type": "java",
             "name": "FactorialFlowState",
             "request": "launch",
             "mainClass": "lesson2.operators.exec.FactorialFlowState",
