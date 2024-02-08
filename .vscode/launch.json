@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ArrayFunction",
+            "request": "launch",
+            "mainClass": "lesson3.ArrayFunction",
+            "projectName": "Day1_69de353e"
+        },
+        {
+            "type": "java",
+            "name": "SeqSearchDemo",
+            "request": "launch",
+            "mainClass": "lesson3.SeqSearchDemo",
+            "projectName": "Day1_69de353e"
+        },
+        {
+            "type": "java",
+            "name": "GenRandomArray",
+            "request": "launch",
+            "mainClass": "lesson3.GenRandomArray",
+            "projectName": "Day1_69de353e"
+        },
+        {
+            "type": "java",
+            "name": "Q1",
+            "request": "launch",
+            "mainClass": "lesson3.assignment.Q1",
+            "projectName": "Day1_69de353e"
+        },
+        {
+            "type": "java",
             "name": "ArrayListStringManipulator",
             "request": "launch",
             "mainClass": "lesson3.ArrayListStringManipulator",
