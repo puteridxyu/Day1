@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "lesson4.exec.Q4.Main",
+            "projectName": "Day1_69de353e"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "lesson4.Q4.Main",
+            "projectName": "Day1_69de353e"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "lesson4.Main",
+            "projectName": "Day1_69de353e"
+        },
+        {
+            "type": "java",
+            "name": "MathOperation",
+            "request": "launch",
+            "mainClass": "lesson4.MathOperation",
+            "projectName": "Day1_69de353e"
+        },
+        {
+            "type": "java",
             "name": "nthPowerDimention",
             "request": "launch",
             "mainClass": "lesson3.nthPowerDimention",
