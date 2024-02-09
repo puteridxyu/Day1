@@ -6,6 +6,69 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Q15",
+            "request": "launch",
+            "mainClass": "lesson4.quiz2.q15.Q15",
+            "projectName": "Day1_69de353e"
+        },
+        {
+            "type": "java",
+            "name": "Q14",
+            "request": "launch",
+            "mainClass": "lesson4.quiz2.q14.Q14",
+            "projectName": "Day1_69de353e"
+        },
+        {
+            "type": "java",
+            "name": "Q13",
+            "request": "launch",
+            "mainClass": "lesson4.quiz2.q13.Q13",
+            "projectName": "Day1_69de353e"
+        },
+        {
+            "type": "java",
+            "name": "Q12",
+            "request": "launch",
+            "mainClass": "lesson4.quiz2.q12.Q12",
+            "projectName": "Day1_69de353e"
+        },
+        {
+            "type": "java",
+            "name": "Q11",
+            "request": "launch",
+            "mainClass": "lesson4.quiz2.q11.Q11",
+            "projectName": "Day1_69de353e"
+        },
+        {
+            "type": "java",
+            "name": "Q10",
+            "request": "launch",
+            "mainClass": "lesson4.quiz2.q10.Q10",
+            "projectName": "Day1_69de353e"
+        },
+        {
+            "type": "java",
+            "name": "Q9",
+            "request": "launch",
+            "mainClass": "lesson4.quiz2.q9.Q9",
+            "projectName": "Day1_69de353e"
+        },
+        {
+            "type": "java",
+            "name": "Test2",
+            "request": "launch",
+            "mainClass": "lesson4.quiz2.Test2",
+            "projectName": "Day1_69de353e"
+        },
+        {
+            "type": "java",
+            "name": "Test",
+            "request": "launch",
+            "mainClass": "lesson4.quiz2.Test",
+            "projectName": "Day1_69de353e"
+        },
+        {
+            "type": "java",
             "name": "Main",
             "request": "launch",
             "mainClass": "lesson4.exec.Q4.Main",
