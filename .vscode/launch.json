@@ -6,6 +6,171 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Decryption",
+            "request": "launch",
+            "mainClass": "lesson7.x.Decryption",
+            "projectName": "Day1_69de353e"
+        },
+        {
+            "type": "java",
+            "name": "Encryption",
+            "request": "launch",
+            "mainClass": "lesson7.x.Encryption",
+            "projectName": "Day1_69de353e"
+        },
+        {
+            "type": "java",
+            "name": "CopyFile",
+            "request": "launch",
+            "mainClass": "lesson7.x.CopyFile",
+            "projectName": "Day1_69de353e"
+        },
+        {
+            "type": "java",
+            "name": "WriteFile",
+            "request": "launch",
+            "mainClass": "lesson7.x.WriteFile",
+            "projectName": "Day1_69de353e"
+        },
+        {
+            "type": "java",
+            "name": "ReadText",
+            "request": "launch",
+            "mainClass": "lesson7.x.ReadText",
+            "projectName": "Day1_69de353e"
+        },
+        {
+            "type": "java",
+            "name": "CountWords",
+            "request": "launch",
+            "mainClass": "lesson7.x.CountWords",
+            "projectName": "Day1_69de353e"
+        },
+        {
+            "type": "java",
+            "name": "CreateFile",
+            "request": "launch",
+            "mainClass": "lesson7.x.CreateFile",
+            "projectName": "Day1_69de353e"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "lesson7.example2.Main",
+            "projectName": "Day1_69de353e"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "lesson7.x.Main",
+            "projectName": "Day1_69de353e"
+        },
+        {
+            "type": "java",
+            "name": "SocketExample",
+            "request": "launch",
+            "mainClass": "lesson7.example3.SocketExample",
+            "projectName": "Day1_69de353e"
+        },
+        {
+            "type": "java",
+            "name": "Main2",
+            "request": "launch",
+            "mainClass": "others.wschool.Main2",
+            "projectName": "Day1_69de353e"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "others.wschool.Main",
+            "projectName": "Day1_69de353e"
+        },
+        {
+            "type": "java",
+            "name": "Test",
+            "request": "launch",
+            "mainClass": "lesson4.quiz2.q31.Test",
+            "projectName": "Day1_69de353e"
+        },
+        {
+            "type": "java",
+            "name": "Test",
+            "request": "launch",
+            "mainClass": "lesson4.quiz2.q30.Test",
+            "projectName": "Day1_69de353e"
+        },
+        {
+            "type": "java",
+            "name": "Test",
+            "request": "launch",
+            "mainClass": "lesson4.quiz2.q27.Test",
+            "projectName": "Day1_69de353e"
+        },
+        {
+            "type": "java",
+            "name": "Test",
+            "request": "launch",
+            "mainClass": "lesson4.quiz2.q45.Test",
+            "projectName": "Day1_69de353e"
+        },
+        {
+            "type": "java",
+            "name": "Test",
+            "request": "launch",
+            "mainClass": "lesson4.quiz2.q22.Test",
+            "projectName": "Day1_69de353e"
+        },
+        {
+            "type": "java",
+            "name": "Test",
+            "request": "launch",
+            "mainClass": "lesson4.quiz2.q21.Test",
+            "projectName": "Day1_69de353e"
+        },
+        {
+            "type": "java",
+            "name": "Test",
+            "request": "launch",
+            "mainClass": "lesson4.quiz2.q20.Test",
+            "projectName": "Day1_69de353e"
+        },
+        {
+            "type": "java",
+            "name": "Test",
+            "request": "launch",
+            "mainClass": "lesson4.quiz2.q18.Test",
+            "projectName": "Day1_69de353e"
+        },
+        {
+            "type": "java",
+            "name": "Test",
+            "request": "launch",
+            "mainClass": "lesson4.quiz2.q26.Test",
+            "args": [
+                "Feb",
+                "24"
+            ],
+            "projectName": "Day1_69de353e"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "lesson4.exec.q7.Main",
+            "projectName": "Day1_69de353e"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "lesson4.exec.q4.Main",
+            "projectName": "Day1_69de353e"
+        },
+        {
+            "type": "java",
             "name": "Q15",
             "request": "launch",
             "mainClass": "lesson4.quiz2.q15.Q15",

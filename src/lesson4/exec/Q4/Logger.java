@@ -1,4 +1,4 @@
-package lesson4.exec.Q4;
+package lesson4.exec.q4;
 
 import java.time.LocalDateTime;
 import java.time.format.DateTimeFormatter;
