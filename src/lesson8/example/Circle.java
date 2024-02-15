@@ -1,7 +1,7 @@
 //Circle.java
 package lesson8.example;
 
-public class Circle extends Border implements Shape, Fill {
+public class Circle extends Border implements Shape, Filler {
     private double radius;
 
     public Circle(double radius) {

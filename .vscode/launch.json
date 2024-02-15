@@ -6,6 +6,83 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Algorithm",
+            "request": "launch",
+            "mainClass": "lesson8.assignment2.q10.Algorithm",
+            "projectName": "Day1_69de353e"
+        },
+        {
+            "type": "java",
+            "name": "GenericSearch",
+            "request": "launch",
+            "mainClass": "lesson8.assignment2.q9.GenericSearch",
+            "projectName": "Day1_69de353e"
+        },
+        {
+            "type": "java",
+            "name": "GenericSorter",
+            "request": "launch",
+            "mainClass": "lesson8.assignment2.q8.GenericSorter",
+            "projectName": "Day1_69de353e"
+        },
+        {
+            "type": "java",
+            "name": "GenericMap",
+            "request": "launch",
+            "mainClass": "lesson8.assignment2.q7.GenericMap",
+            "projectName": "Day1_69de353e"
+        },
+        {
+            "type": "java",
+            "name": "GenericLinkedList",
+            "request": "launch",
+            "mainClass": "lesson8.assignment2.q6.GenericLinkedList",
+            "projectName": "Day1_69de353e"
+        },
+        {
+            "type": "java",
+            "name": "Maximizer",
+            "request": "launch",
+            "mainClass": "lesson8.assignment2.q4.Maximizer",
+            "projectName": "Day1_69de353e"
+        },
+        {
+            "type": "java",
+            "name": "GenericQueue",
+            "request": "launch",
+            "mainClass": "lesson8.assignment2.q3.GenericQueue",
+            "projectName": "Day1_69de353e"
+        },
+        {
+            "type": "java",
+            "name": "Pair",
+            "request": "launch",
+            "mainClass": "lesson8.assignment2.q2.Pair",
+            "projectName": "Day1_69de353e"
+        },
+        {
+            "type": "java",
+            "name": "GenericStack",
+            "request": "launch",
+            "mainClass": "lesson8.assignment2.q1.GenericStack",
+            "projectName": "Day1_69de353e"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "lesson8.assignment.q2.Main",
+            "projectName": "Day1_69de353e"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "lesson8.assignment.q10.Main",
+            "projectName": "Day1_69de353e"
+        },
+        {
+            "type": "java",
             "name": "Main",
             "request": "launch",
             "mainClass": "lesson8.example.Main",
