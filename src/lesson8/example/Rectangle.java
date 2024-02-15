@@ -1,7 +1,7 @@
 // Rectangle.java
 package lesson8.example;
 
-public class Rectangle implements Shape {
+public class Rectangle extends Border implements Shape, Filler {
     private double height;
     private double width;
 
@@ -18,5 +18,10 @@ public class Rectangle implements Shape {
     @Override
     public double calculatePerimeter() {
         return 2 * (height + width);
+    }
+
+    @Override
+    public boolean fillable() {
+        return true;
     }
 }
