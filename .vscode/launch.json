@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "lesson8.assignment2.q10.Main",
+            "projectName": "Day1_69de353e"
+        },
+        {
+            "type": "java",
             "name": "Algorithm",
             "request": "launch",
             "mainClass": "lesson8.assignment2.q10.Algorithm",
