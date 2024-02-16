@@ -6,6 +6,125 @@
     "configurations": [
         {
             "type": "java",
+            "name": "TicTacToe2",
+            "request": "launch",
+            "mainClass": "lesson9.assignment.q10.TicTacToe2",
+            "projectName": "Day1_69de353e"
+        },
+        {
+            "type": "java",
+            "name": "RecipeBookApp",
+            "request": "launch",
+            "mainClass": "lesson9.assignment.q15.RecipeBookApp",
+            "projectName": "Day1_69de353e"
+        },
+        {
+            "type": "java",
+            "name": "ExpenseTrackerApp",
+            "request": "launch",
+            "mainClass": "lesson9.assignment.q14.ExpenseTrackerApp",
+            "projectName": "Day1_69de353e"
+        },
+        {
+            "type": "java",
+            "name": "WeatherApp",
+            "request": "launch",
+            "mainClass": "lesson9.assignment.q13.WeatherApp",
+            "projectName": "Day1_69de353e"
+        },
+        {
+            "type": "java",
+            "name": "CalendarApplication",
+            "request": "launch",
+            "mainClass": "lesson9.assignment.q12.CalendarApplication",
+            "projectName": "Day1_69de353e"
+        },
+        {
+            "type": "java",
+            "name": "QuizApplication",
+            "request": "launch",
+            "mainClass": "lesson9.assignment.q11.QuizApplication",
+            "projectName": "Day1_69de353e"
+        },
+        {
+            "type": "java",
+            "name": "TicTacToe",
+            "request": "launch",
+            "mainClass": "lesson9.assignment.q10.TicTacToe",
+            "projectName": "Day1_69de353e"
+        },
+        {
+            "type": "java",
+            "name": "ImageViewer",
+            "request": "launch",
+            "mainClass": "lesson9.assignment.q8.ImageViewer",
+            "projectName": "Day1_69de353e"
+        },
+        {
+            "type": "java",
+            "name": "ChatServer",
+            "request": "launch",
+            "mainClass": "lesson9.assignment.q7.ChatServer",
+            "projectName": "Day1_69de353e"
+        },
+        {
+            "type": "java",
+            "name": "ChatClient",
+            "request": "launch",
+            "mainClass": "lesson9.assignment.q7.ChatClient",
+            "projectName": "Day1_69de353e"
+        },
+        {
+            "type": "java",
+            "name": "FileExplorer",
+            "request": "launch",
+            "mainClass": "lesson9.assignment.q6.FileExplorer",
+            "projectName": "Day1_69de353e"
+        },
+        {
+            "type": "java",
+            "name": "DrawingProgram",
+            "request": "launch",
+            "mainClass": "lesson9.assignment.q5.DrawingProgram",
+            "projectName": "Day1_69de353e"
+        },
+        {
+            "type": "java",
+            "name": "AddressBook",
+            "request": "launch",
+            "mainClass": "lesson9.assignment.q4.AddressBook",
+            "projectName": "Day1_69de353e"
+        },
+        {
+            "type": "java",
+            "name": "TodoListManager",
+            "request": "launch",
+            "mainClass": "lesson9.assignment.q3.TodoListManager",
+            "projectName": "Day1_69de353e"
+        },
+        {
+            "type": "java",
+            "name": "TemperatureConverter",
+            "request": "launch",
+            "mainClass": "lesson9.assignment.q2.TemperatureConverter",
+            "projectName": "Day1_69de353e"
+        },
+        {
+            "type": "java",
+            "name": "SimpleCalculator",
+            "request": "launch",
+            "mainClass": "lesson9.assignment.q1.SimpleCalculator",
+            "projectName": "Day1_69de353e"
+        },
+        {
+            "type": "java",
+            "name": "ExpenseTrackerApp",
+            "request": "launch",
+            "mainClass": "lesson9.example.ExpenseTrackerApp",
+            "projectName": "Day1_69de353e"
+        },
+        {
+            "type": "java",
             "name": "Main",
             "request": "launch",
             "mainClass": "lesson8.assignment2.q10.Main",

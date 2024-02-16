@@ -9,18 +9,18 @@ public class Algorithm<T extends Comparable<T>> {
         System.out.println("Array after sorting: " + Arrays.toString(input));
     }
 
-    public void execute(T[] input, T key) { // for search
+    public void execute(T[] input, T value) { // for search
         if (!isSorted(input)) {
             Arrays.sort(input);
             System.out.println("\nArray sorted for searching: " + Arrays.toString(input));
         }
 
-        int index = binarySearch(input, key); // Perform binary search
+        int index = binarySearch(input, value); // Perform binary search
 
         if (index != -1) {
-            System.out.println("Element " + key + " found at index: " + index);
+            System.out.println("Element " + value + " found at index: " + index);
         } else {
-            System.out.println("Element " + key + " not found in the array.");
+            System.out.println("Element " + value + " not found in the array.");
         }
     }
 
