@@ -6,6 +6,188 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ThreadSafeSingleton",
+            "request": "launch",
+            "mainClass": "lesson11.ThreadSafeSingleton",
+            "projectName": "Day1_69de353e"
+        },
+        {
+            "type": "java",
+            "name": "D_ThreadPoolExample",
+            "request": "launch",
+            "mainClass": "lesson11.D_ThreadPoolExample",
+            "projectName": "Day1_69de353e"
+        },
+        {
+            "type": "java",
+            "name": "ThreadSynchronization",
+            "request": "launch",
+            "mainClass": "lesson11.ThreadSynchronization",
+            "projectName": "Day1_69de353e"
+        },
+        {
+            "type": "java",
+            "name": "SimpleThreadCreation",
+            "request": "launch",
+            "mainClass": "lesson11.SimpleThreadCreation",
+            "projectName": "Day1_69de353e"
+        },
+        {
+            "type": "java",
+            "name": "Test",
+            "request": "launch",
+            "mainClass": "quiz.quiz3.q21_q30.q24.Test",
+            "projectName": "Day1_69de353e"
+        },
+        {
+            "type": "java",
+            "name": "Test",
+            "request": "launch",
+            "mainClass": "quiz.quiz3.q21_q30.q23.Test",
+            "projectName": "Day1_69de353e"
+        },
+        {
+            "type": "java",
+            "name": "Test",
+            "request": "launch",
+            "mainClass": "quiz.quiz4.q22.Test",
+            "projectName": "Day1_69de353e"
+        },
+        {
+            "type": "java",
+            "name": "ThreadInterruptionExample",
+            "request": "launch",
+            "mainClass": "lesson11.ThreadInterruptionExample",
+            "projectName": "Day1_69de353e"
+        },
+        {
+            "type": "java",
+            "name": "ThreadInterruption",
+            "request": "launch",
+            "mainClass": "lesson11.ThreadInterruption",
+            "projectName": "Day1_69de353e"
+        },
+        {
+            "type": "java",
+            "name": "SimpleThread",
+            "request": "launch",
+            "mainClass": "lesson11.SimpleThread",
+            "projectName": "Day1_69de353e"
+        },
+        {
+            "type": "java",
+            "name": "Lambda",
+            "request": "launch",
+            "mainClass": "lesson11.Lambda",
+            "projectName": "Day1_69de353e"
+        },
+        {
+            "type": "java",
+            "name": "Test",
+            "request": "launch",
+            "mainClass": "quiz.quiz4.q21.Test",
+            "projectName": "Day1_69de353e"
+        },
+        {
+            "type": "java",
+            "name": "Test",
+            "request": "launch",
+            "mainClass": "quiz.quiz4.Test",
+            "projectName": "Day1_69de353e"
+        },
+        {
+            "type": "java",
+            "name": "DimensionSize",
+            "request": "launch",
+            "mainClass": "lesson10.tictactoe.DimensionSize",
+            "projectName": "Day1_69de353e"
+        },
+        {
+            "type": "java",
+            "name": "PlayerMode2",
+            "request": "launch",
+            "mainClass": "lesson10.tictactoe.PlayerMode2",
+            "projectName": "Day1_69de353e"
+        },
+        {
+            "type": "java",
+            "name": "PlayerMode",
+            "request": "launch",
+            "mainClass": "lesson10.tictactoe.PlayerMode",
+            "projectName": "Day1_69de353e"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "lesson10.tictactoe.Main",
+            "projectName": "Day1_69de353e"
+        },
+        {
+            "type": "java",
+            "name": "PlayerMode2",
+            "request": "launch",
+            "mainClass": "lesson9.assignment.q10.PlayerMode2",
+            "projectName": "Day1_69de353e"
+        },
+        {
+            "type": "java",
+            "name": "QuizApplication",
+            "request": "launch",
+            "mainClass": "lesson10.quizApp_v2.quizApplication.QuizApplication",
+            "projectName": "Day1_69de353e"
+        },
+        {
+            "type": "java",
+            "name": "QuizApplication",
+            "request": "launch",
+            "mainClass": "lesson10.quizApplication.QuizApplication",
+            "projectName": "Day1_69de353e"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "lesson10.lesson10_v2.Main",
+            "projectName": "Day1_69de353e"
+        },
+        {
+            "type": "java",
+            "name": "ExpenseTrackerApp",
+            "request": "launch",
+            "mainClass": "lesson10.v_2.ExpenseTrackerApp",
+            "projectName": "Day1_69de353e"
+        },
+        {
+            "type": "java",
+            "name": "MainFrame",
+            "request": "launch",
+            "mainClass": "lesson9.assignment.q10.new2.MainFrame",
+            "projectName": "Day1_69de353e"
+        },
+        {
+            "type": "java",
+            "name": "DrinkOrderApp",
+            "request": "launch",
+            "mainClass": "lesson9.assignment.q10.DrinkOrderApp",
+            "projectName": "Day1_69de353e"
+        },
+        {
+            "type": "java",
+            "name": "DrinkOrderApp",
+            "request": "launch",
+            "mainClass": "lesson9.assignment.q10.x.DrinkOrderApp",
+            "projectName": "Day1_69de353e"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "lesson9.assignment.q10.Main",
+            "projectName": "Day1_69de353e"
+        },
+        {
+            "type": "java",
             "name": "TicTacToe2",
             "request": "launch",
             "mainClass": "lesson9.assignment.q10.TicTacToe2",
