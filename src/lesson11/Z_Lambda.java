@@ -3,7 +3,7 @@ package lesson11;
 import java.util.Arrays;
 import java.util.List;
 
-public class Lambda {
+public class Z_Lambda {
 
     static List<Integer> ary = Arrays.asList(1, 2);
     static List<Integer> ary_filtered;

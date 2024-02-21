@@ -17,4 +17,7 @@ public class Test {
         System.out.println(list);
     }
 }
-// output [A, E, I, O, U, A, E, I, O]
+
+// 20. Consider below code of Test.java file, What will be the result of
+// compiling and executing Test class?
+// answer : [A, E, I, O, U, A, E, I, O]
