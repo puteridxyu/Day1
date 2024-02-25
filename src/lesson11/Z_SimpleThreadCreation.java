@@ -1,13 +1,13 @@
 package lesson11;
 
-public class Z_SimpleThreadCreation {
+public class Z_SimpleThreadCreation extends Thread {
+
     public static void main(String[] args) {
-        // Create a thread using the Thread class
-        Thread helloThread = new Thread(() -> {
-            System.out.println("Hello, World!");
+        Thread thread = new Thread(() -> {
+            System.out.println("Hello World");
         });
 
-        // Start the thread
-        helloThread.start();
+        thread.start();
+
     }
 }

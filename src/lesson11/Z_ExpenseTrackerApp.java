@@ -70,7 +70,7 @@ public class Z_ExpenseTrackerApp extends JFrame {
 
     public static void main(String[] args) {
         SwingUtilities.invokeLater(() -> {
-            Z_ExpenseTrackerApp app = new ExpenseTrackerApp();
+            Z_ExpenseTrackerApp app = new Z_ExpenseTrackerApp();
             app.setVisible(true);
         });
     }

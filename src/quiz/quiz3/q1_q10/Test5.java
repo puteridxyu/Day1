@@ -29,3 +29,7 @@ public class Test5 {
         // obj.C(); // Line n4
     }
 }
+
+// 5. Given code of Test.java file, What will be the result of compiling and
+// executing above code?
+// answer : Compilation error in class Test

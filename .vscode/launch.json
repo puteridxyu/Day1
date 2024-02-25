@@ -6,6 +6,132 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "lesson8.example.Main",
+            "projectName": "JavaSE8_c882b6d3"
+        },
+        {
+            "type": "java",
+            "name": "A_SimpleThread",
+            "request": "launch",
+            "mainClass": "lesson11.A_SimpleThread",
+            "projectName": "JavaSE8_c882b6d3"
+        },
+        {
+            "type": "java",
+            "name": "Test19",
+            "request": "launch",
+            "mainClass": "quiz.quiz4.q11_q20.Test19",
+            "projectName": "Day1_69de353e"
+        },
+        {
+            "type": "java",
+            "name": "Test18",
+            "request": "launch",
+            "mainClass": "quiz.quiz4.q11_q20.Test18",
+            "projectName": "Day1_69de353e"
+        },
+        {
+            "type": "java",
+            "name": "Test17",
+            "request": "launch",
+            "mainClass": "quiz.quiz4.q11_q20.Test17",
+            "projectName": "Day1_69de353e"
+        },
+        {
+            "type": "java",
+            "name": "Test16",
+            "request": "launch",
+            "mainClass": "quiz.quiz4.q11_q20.Test16",
+            "projectName": "Day1_69de353e"
+        },
+        {
+            "type": "java",
+            "name": "Test15",
+            "request": "launch",
+            "mainClass": "quiz.quiz4.q11_q20.Test15",
+            "projectName": "Day1_69de353e"
+        },
+        {
+            "type": "java",
+            "name": "Test14",
+            "request": "launch",
+            "mainClass": "quiz.quiz4.q11_q20.Test14",
+            "projectName": "Day1_69de353e"
+        },
+        {
+            "type": "java",
+            "name": "Test13",
+            "request": "launch",
+            "mainClass": "quiz.quiz4.q11_q20.Test13",
+            "projectName": "Day1_69de353e"
+        },
+        {
+            "type": "java",
+            "name": "Test12",
+            "request": "launch",
+            "mainClass": "quiz.quiz4.q11_q20.Test12",
+            "projectName": "Day1_69de353e"
+        },
+        {
+            "type": "java",
+            "name": "Test11",
+            "request": "launch",
+            "mainClass": "quiz.quiz4.q11_q20.Test11",
+            "projectName": "Day1_69de353e"
+        },
+        {
+            "type": "java",
+            "name": "Test9",
+            "request": "launch",
+            "mainClass": "quiz.quiz4.q1_q10.Test9",
+            "projectName": "Day1_69de353e"
+        },
+        {
+            "type": "java",
+            "name": "Test8",
+            "request": "launch",
+            "mainClass": "quiz.quiz4.q1_q10.Test8",
+            "projectName": "Day1_69de353e"
+        },
+        {
+            "type": "java",
+            "name": "Test5",
+            "request": "launch",
+            "mainClass": "quiz.quiz4.q1_q10.Test5",
+            "projectName": "Day1_69de353e"
+        },
+        {
+            "type": "java",
+            "name": "Test4",
+            "request": "launch",
+            "mainClass": "quiz.quiz4.q1_q10.Test4",
+            "projectName": "Day1_69de353e"
+        },
+        {
+            "type": "java",
+            "name": "Test3",
+            "request": "launch",
+            "mainClass": "quiz.quiz4.q1_q10.Test3",
+            "projectName": "Day1_69de353e"
+        },
+        {
+            "type": "java",
+            "name": "Test2",
+            "request": "launch",
+            "mainClass": "quiz.quiz4.q1_q10.Test2",
+            "projectName": "Day1_69de353e"
+        },
+        {
+            "type": "java",
+            "name": "Test7",
+            "request": "launch",
+            "mainClass": "quiz.quiz3.q1_q10.Test7",
+            "projectName": "Day1_69de353e"
+        },
+        {
+            "type": "java",
             "name": "Test5",
             "request": "launch",
             "mainClass": "quiz.quiz3.q1_q10.Test5",
